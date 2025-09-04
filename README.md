@@ -45,4 +45,4 @@ resume-builder/
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/resume-builder.git
+   git clone https://yasertechie.github.io/resume_build/
